@@ -1,0 +1,2 @@
+Pour lancer le jeu :
+Ouvrir le dossier "Démineur" puis ouvrir le dossier "x64" puis ouvrir le dossier "Debug" puis lancer le .exe et peut être que ça marchera
