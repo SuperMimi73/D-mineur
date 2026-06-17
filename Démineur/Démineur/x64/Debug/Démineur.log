@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\mblanc-tailleur\source\repos\Démineur\Démineur\main.cpp(187,30): warning C4804: '>' : utilisation risquée du type 'bool' dans l'opération
+  Démineur.vcxproj -> C:\Users\mblanc-tailleur\source\repos\Démineur\x64\Debug\Démineur.exe
